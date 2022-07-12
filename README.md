@@ -27,7 +27,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Url :
+- Live Url : https://robertobaiochi.github.io/RobertoBaiochi-frontEndMentor-statsPreviewCard/
 
 ## My process
 
